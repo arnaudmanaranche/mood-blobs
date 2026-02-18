@@ -95,10 +95,6 @@ mood-blobs/
 │           ├── Disgusted.tsx
 │           ├── Sleepy.tsx
 │           └── Excited.tsx
-├── demo/                   # React demo app (Vite)
-│   └── src/
-│       ├── App.tsx
-│       └── main.tsx
 ├── website/                # Static documentation site
 │   ├── index.html
 │   └── styles.css
