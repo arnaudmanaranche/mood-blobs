@@ -104,7 +104,6 @@ mood-blobs/
 ## Running the demo
 
 ```bash
-cd demo
 npm install
 npm run demo
 ```
