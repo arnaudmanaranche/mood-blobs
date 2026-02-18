@@ -1,5 +1,7 @@
 # mood-blobs
 
+![screenshot](screenshot.png)
+
 Expressive SVG blob components representing different moods for React.
 
 ```tsx
